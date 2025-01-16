@@ -1,4 +1,4 @@
-# CSC-313-Holiday-Ass.
+// CSC-313-Assignment 
 import java.util.Scanner;
 
 public class MichaelHoliayAssignment {
